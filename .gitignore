@@ -1,0 +1,5 @@
+# .gitignore content example
+venv/
+__pycache__/
+*.pyc
+.DS_Store
