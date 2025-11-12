@@ -1,0 +1,31 @@
+id,name,intensity,disease,cost
+101,Paracetamol,500mg,Fever,20.00
+102,Dolo,650mg,Fever,30.00
+103,Azithromycin,250mg,Infection,85.00
+104,Amoxicillin,500mg,Infection,60.00
+105,Cetirizine,10mg,Allergy,30.00
+106,Loratadine,10mg,Allergy,35.00
+107,Omeprazole,20mg,Acidity,50.00
+108,Esomeprazole,40mg,Acidity,70.00
+109,Ibuprofen,400mg,Pain Relief,45.00
+110,Diclofenac,50mg,Pain Relief,40.00
+111,Metformin,500mg,Diabetes,65.00
+112,Glimepiride,2mg,Diabetes,80.00
+113,Losartan,50mg,Blood Pressure,90.00
+114,Amlodipine,5mg,Blood Pressure,85.00
+115,Atorvastatin,10mg,Cholesterol,95.00
+116,Rosuvastatin,5mg,Cholesterol,110.00
+117,Multivitamin,1tab,General Health,25.00
+118,Calcium Tablet,500mg,Bone Health,55.00
+119,Vitamin D3,60000 IU,Bone Health,75.00
+120,ORS Sachet,1pack,Dehydration,20.00
+121,Betadine Ointment,20g,Wound Care,40.00
+122,Neosporin Cream,15g,Wound Care,55.00
+123,Clobetasol Cream,20g,Skin Allergy,80.00
+124,Hydrocortisone Cream,10g,Skin Allergy,65.00
+125,Domperidone,10mg,Nausea,30.00
+126,Ondansetron,4mg,Nausea,45.00
+127,Montelukast,10mg,Asthma,90.00
+128,Salbutamol Inhaler,100mcg,Asthma,250.00
+129,Levocetirizine,5mg,Cold,30.00
+130,Steam Inhaler,1unit,Cold,300.00
